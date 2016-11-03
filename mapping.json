@@ -1,0 +1,12 @@
+{  
+  "scene" : {
+    "properties" : {
+      "scene_center" : {
+        "type": "geo_point"
+      },
+      "footprint" : {
+        "type": "geo_shape"
+      }
+    }
+  }
+}
